@@ -25,7 +25,8 @@ display: block;
 margin: auto;
 }
 
-.about {
-    width: 30%;
-    margin: 10px;
+.about img{
+width: 300px;
+height: 300px;
+margin: 10px;
 }
