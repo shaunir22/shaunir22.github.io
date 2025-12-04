@@ -24,3 +24,8 @@ border: 2px solid rgb(126, 14, 201); color:black;
 display: block;
 margin: auto;
 }
+
+.about {
+    width: 30%;
+    margin: 10px;
+}
